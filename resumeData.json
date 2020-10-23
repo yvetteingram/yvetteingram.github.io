@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name":"Yvette Ingram",
+    "occupation":"Full Stack Web Application Developer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"YvetteIngramnew.jpg",
+    "bio":"I am a creative at heart, with an entrepreneurial spirit, and a passion for coding and teaching. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yvetteingram@comcast.net",
+    "phone": "856-495-4272",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Delran",
+      "state":"New Jersey",
+      "zip": "08075"
+    },
+    "website": "https://github.com/yvetteingram/yvetteingram.github.io",
+    "resumedownload":"https://docs.google.com/uc?export=pdf&id=1nZCi0K_Vvqz-PeTncpIx4IdYLsSFkLuY",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ketorah_dev/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/MsYvetteIngram",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"google-plus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/yvetteingram/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ketorah_dev/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/yvetteingram",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Rutgers",
+        "degree":"mini-MBA-Social Media Marketing",
+        "graduated":"2013",
+        "description":"Learned about the different social media platforms, messaging and placement."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft SharePoint",
+        "level":"100%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"10%"
+      },
+      {
+        "name":"SQL Server",
+        "level":"80%"
+      },
+      {
+        "name":"ColdFusion",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Netflix Clone",
+        "category":"A clone built using ReactJS and Firebase",
+        "image":"netflix-app.jpg",
+        "urldemo":"https://netflix-clone-54d56.web.app/",
+        "urlcode":"https://github.com/yvetteingram/Netflix-Clone"
+      },
+      {
+        "title":"COVID-19 Tracker",
+        "category":"Covid-19 Tracker built with React and Firebase",
+        "image":"covid19tracker.jpg",
+        "urldemo":"https://covid19-tracker-8510b.web.app/",
+        "urlcode":"https://github.com/yvetteingram/COVID19-TRACKER"
+      },
+      {
+        "title":"Facebook Clone",
+        "category":"A Facebook clone built using ReactJS and Firebase",
+        "image":"facebookclone.jpg",
+        "urldemo":"https://facebook-clone-4536c.web.app/",
+        "urlcode":"https://github.com/yvetteingram/Facebook-Clone"
+      },
+      
+      {
+        "title":"Beach Resort Hotel",
+        "category":"Beach Resort Hotel Demo built with ReactJS and Firebase",
+        "image":"beachresorthotel.jpg",
+        "urldemo":"https://ketorah-dev-beach-resort.netlify.app/",
+        "urlcode":"https://github.com/yvetteingram/beach-resort-app"
+      },
+      {
+        "title":"Netflix Clone Challenge",
+        "category":"A Netflix clone with shopping cart and payment processing",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com",
+        "urldemo":"",
+        "urlcode":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com",
+        "urldemo":"",
+        "urlcode":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
