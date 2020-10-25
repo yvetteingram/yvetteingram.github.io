@@ -2,17 +2,17 @@
   "main": {
     "name":"Yvette Ingram",
     "occupation":"Full Stack Web Application Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I'm a self-taught developer.  I love exploring and learning new technologies that improve user experience.  I'm also a technical writer and particularly enjoy writing instructional material.  Volunteering is important to me and I am a TA with TechGirlz.",
     "image":"YvetteIngramnew.jpg",
-    "bio":"I am a creative at heart, with an entrepreneurial spirit, and a passion for coding and teaching. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am a creative at heart, with an entrepreneurial spirit, and a passion for coding, writing and teaching. I pursued my first development job as a ColdFusion programmer where I learned frontend and backend development.  I also have experience in Microsoft SharePoint where I developed solutions that automated internal business processes.  Currently, I am pursuing a certification in Responsive Web Design at freecodecamp.org.",
+    "contactmessage":"Send me a message!  I'd love you hear from you and learn how I can help.",
     "email": "yvetteingram@comcast.net",
-    "phone": "856-495-4272",
+    "phone": "",
     "address":{
-      "street":"(Your Street)",
-      "city":"Delran",
+      "street":"",
+      "city":"",
       "state":"New Jersey",
-      "zip": "08075"
+      "zip": ""
     },
     "website": "https://github.com/yvetteingram/yvetteingram.github.io",
     "resumedownload":"https://docs.google.com/uc?export=pdf&id=1nZCi0K_Vvqz-PeTncpIx4IdYLsSFkLuY",
@@ -59,29 +59,41 @@
     "education":[
       {
         "school":"Rutgers",
-        "degree":"mini-MBA-Social Media Marketing",
-        "graduated":"2013",
+        "degree":"Mini-MBA™: Social Media Marketing Certificate Program",
+        "graduated":"",
         "description":"Learned about the different social media platforms, messaging and placement."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Rutgers Center for Continuing Professional Development",
+        "degree":"Essentials of Business Analysis Certificate Program",
+        "graduated":"",
+        "description":"Analyze and document business systems and processes."
+      },
+      {
+        "school":"University Associates Residential Intern Program",
+        "degree":"Organization and Human Resource Development",
+        "graduated":"",
+        "description":"Study of individuals, groups and organizational behavior using various diagnostic tools."
+      },
+      {
+        "school":"Thomas Edison State College",
+        "degree":"Human Resource Management",
+        "graduated":"",
+        "description":"Learned about all aspects of the management of human sources."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Ketorah-Dev",
+        "title":"Freelance Web Application Developer, Technical Writer ",
+        "years":"January 2017 - Present",
+        "description":"Design and develop modern web applications that enhance user experiences."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Educational Testing Services",
+        "title":"Sr. SharePoint Consultant",
+        "years":"February 2008 - December 2016",
+        "description":"Develop business process solutions, trained end users, provided corporate SharePoint support, wrote SharePoint user guides."
       }
     ],
     "skills":[
@@ -95,11 +107,11 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"60%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Microsoft SharePoint",
@@ -114,8 +126,8 @@
         "level":"80%"
       },
       {
-        "name":"ColdFusion",
-        "level":"80%"
+        "name":"Adobe ColdFusion",
+        "level":"90%"
       }
     ]
   },
@@ -149,35 +161,20 @@
         "image":"beachresorthotel.jpg",
         "urldemo":"https://ketorah-dev-beach-resort.netlify.app/",
         "urlcode":"https://github.com/yvetteingram/beach-resort-app"
-      },
-      {
-        "title":"Netflix Clone Challenge",
-        "category":"A Netflix clone with shopping cart and payment processing",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com",
-        "urldemo":"",
-        "urlcode":""
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com",
-        "urldemo":"",
-        "urlcode":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Yvette's talents revolve around her key ability to make concrete and manageable data that at first glance seems unrelated and abstract. Her strengths are supported by her excellent; purposeful, questioning skills and her clear writing skills. My work with Yvette was focused on the clarification, monitoring and increasing efficiency of work streams and processes. Typically this type of work is contentious due to suspicions surrounding the use of the resulting data. Yvette ability to objectively communicate purpose and need, influence resources and clarify processes and their capability has singularly supported my unit in being successful is assisting other organizations in their goal of creating more efficient and profitable business processes. I strongly recommended Yvette.",
+        "user":"James Moore, PMP, PMI-ACP, Sr. IT Project Manager at Capgemini"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Yvette was a great source of inspiration. She was always ready to offer help and insight to the projects I was involved in. Her suggestions proved to be extremely valuable. Meticuluous planning, eye for detail, total focus, meeting deadlines are her forte. She is very committed, organised and handles complex issues with great ease. Working with Yvette was a great learning experience. Yvette is an excellent value add to any organization.",
+        "user":"Danya Bakthisaran, Associate Director, HR Technology at Covance"
       }
     ]
   }
 }
+ 
