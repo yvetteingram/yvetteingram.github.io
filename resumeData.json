@@ -4,7 +4,7 @@
     "occupation":"Full Stack Web Application Developer",
     "description":"I'm a self-taught developer.  I love exploring and learning new technologies that improve user experience.  I'm also a technical writer and particularly enjoy writing instructional material.  Volunteering is important to me and I am a TA with TechGirlz.",
     "image":"YvetteIngramnew.jpg",
-    "bio":"I am a creative at heart, with an entrepreneurial spirit, and a passion for coding, writing and teaching. I pursued my first development job as a ColdFusion programmer where I learned frontend and backend development.  I also have experience in Microsoft SharePoint where I developed solutions that automated internal business processes.  Currently, I am pursuing a certification in Responsive Web Design at freecodecamp.org.",
+    "bio":"I am a creative at heart, with an entrepreneurial spirit, and a passion for coding, writing and teaching. I pursued my first development job as a ColdFusion programmer where I learned frontend and backend development.  I also have experience in Microsoft SharePoint where I developed solutions that automated internal business processes.  Currently, I am pursuing a certification in Responsive Web Design at www.freecodecamp.org.",
     "contactmessage":"Send me a message!  I'd love you hear from you and learn how I can help.",
     "email": "yvetteingram@comcast.net",
     "phone": "",
@@ -168,11 +168,11 @@
     "testimonials":[
       {
         "text":"Yvette's talents revolve around her key ability to make concrete and manageable data that at first glance seems unrelated and abstract. Her strengths are supported by her excellent; purposeful, questioning skills and her clear writing skills. My work with Yvette was focused on the clarification, monitoring and increasing efficiency of work streams and processes. Typically this type of work is contentious due to suspicions surrounding the use of the resulting data. Yvette ability to objectively communicate purpose and need, influence resources and clarify processes and their capability has singularly supported my unit in being successful is assisting other organizations in their goal of creating more efficient and profitable business processes. I strongly recommended Yvette.",
-        "user":"James Moore, PMP, PMI-ACP, Sr. IT Project Manager at Capgemini"
+        "user":"James Moore, PMP, PMI-ACP, Director, ETS"
       },
       {
         "text":"Yvette was a great source of inspiration. She was always ready to offer help and insight to the projects I was involved in. Her suggestions proved to be extremely valuable. Meticuluous planning, eye for detail, total focus, meeting deadlines are her forte. She is very committed, organised and handles complex issues with great ease. Working with Yvette was a great learning experience. Yvette is an excellent value add to any organization.",
-        "user":"Danya Bakthisaran, Associate Director, HR Technology at Covance"
+        "user":"Danya Bakthisaran, HR Consultant, ETS"
       }
     ]
   }
