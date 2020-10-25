@@ -28,11 +28,6 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"google-plus.com",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/yvetteingram/",
         "className":"fa fa-linkedin"
@@ -46,11 +41,6 @@
         "name":"github",
         "url":"https://github.com/yvetteingram",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
