@@ -151,6 +151,13 @@
         "image":"beachresorthotel.jpg",
         "urldemo":"https://ketorah-dev-beach-resort.netlify.app/",
         "urlcode":"https://github.com/yvetteingram/beach-resort-app"
+      },
+      {
+        "title":"Amazon Clone Challenge",
+        "category":"Amazon Clone Demo built with ReactJS, Firebase, Stripe, Axios, Express, Cors",
+        "image":"amazon-clone.jpg",
+        "urldemo":"https://challenge-223f2.web.app/",
+        "urlcode":"https://github.com/yvetteingram/amazon-clone-challenge/"
       }
     ]
   },
