@@ -1,2 +1,0 @@
-# yvetteingram.github.io
-Portfolio
