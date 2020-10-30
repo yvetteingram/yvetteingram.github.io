@@ -58,19 +58,19 @@
         "school":"Rutgers Center for Continuing Professional Development",
         "degree":"Essentials of Business Analysis Certificate Program",
         "graduated":"",
-        "description":"Analyze and document business systems and processes."
+        "description":"Analyzed and documented business systems and processes."
       },
       {
         "school":"University Associates Residential Intern Program",
         "degree":"Organization and Human Resource Development",
         "graduated":"",
-        "description":"Study of individuals, groups and organizational behavior using various diagnostic tools."
+        "description":"Studied individual, groups and organizational behavior using various diagnostic tools."
       },
       {
         "school":"Thomas Edison State College",
         "degree":"Human Resource Management",
         "graduated":"",
-        "description":"Learned about all aspects of the management of human sources."
+        "description":"Learned all aspects of talent management lifecycle."
       }
     ],
     "work":[
@@ -84,7 +84,19 @@
         "company":"Educational Testing Services",
         "title":"Sr. SharePoint Consultant",
         "years":"February 2008 - December 2016",
-        "description":"Develop business process solutions, trained end users, provided corporate SharePoint support, wrote SharePoint user guides."
+        "description":"Developed business process solutions, trained end users, provided corporate SharePoint technical support, wrote SharePoint user guides, and managed SharePoint user adoption."
+      },
+      {
+        "company":"United Check Cashing",
+        "title":"Franchise Owner/Operator",
+        "years":"March 2004 - January 2008",
+        "description":"Provided financial and ancillary products and services to the un-banked market."
+      },
+      {
+        "company":"Ingram Recruiting Solutions",
+        "title":"Independent Consultant",
+        "years":"January 1996 - February 2004",
+        "description":"Provided full-cycle recruiting, web application development, process improvement, and technical documentation products and services."
       }
     ],
     "skills":[
@@ -119,6 +131,10 @@
       {
         "name":"Adobe ColdFusion",
         "level":"90%"
+      },
+      {
+        "name":"Technical Writing",
+        "level":"100%"
       }
     ]
   },
