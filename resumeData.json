@@ -2,7 +2,7 @@
   "main": {
     "name":"Yvette Ingram",
     "occupation":"Full Stack Web Application Developer",
-    "description":"I'm a self-taught developer.  I love exploring and learning new technologies that improve user experience.  I'm also a technical writer and particularly enjoy writing instructional material.  Volunteering is important to me and I am a TA with TechGirlz.",
+    "description":"I love exploring and learning new technologies that improve user experience.  I'm also a technical writer and particularly enjoy writing instructional material.  Volunteering and teaching is important to me and I am a TA with TechGirlz.",
     "image":"YvetteIngramnew.jpg",
     "bio":"I am a creative at heart, with an entrepreneurial spirit, and a passion for coding, writing and teaching. I pursued my first development job as a ColdFusion programmer where I learned frontend and backend development.  I also have experience in Microsoft SharePoint where I developed solutions that automated internal business processes.  Currently, I am pursuing a certification in Responsive Web Design at www.freecodecamp.org.",
     "contactmessage":"Send me a message!  I'd love you hear from you and learn how I can help.",
@@ -46,13 +46,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here's a sampling of my skills.",
     "education":[
       {
         "school":"Rutgers",
         "degree":"Mini-MBA™: Social Media Marketing Certificate Program",
         "graduated":"",
-        "description":"Learned about the different social media platforms, messaging and placement."
+        "description":"Learned about the different social media strategies, platforms, placement and messaging."
       },
       {
         "school":"Rutgers Center for Continuing Professional Development",
@@ -64,13 +64,13 @@
         "school":"University Associates Residential Intern Program",
         "degree":"Organization and Human Resource Development",
         "graduated":"",
-        "description":"Studied individual, groups and organizational behavior using various diagnostic tools."
+        "description":"Studied individual, groups and organizational behavior using various methods and diagnostic tools."
       },
       {
         "school":"Thomas Edison State College",
         "degree":"Human Resource Management",
         "graduated":"",
-        "description":"Learned all aspects of talent management lifecycle."
+        "description":"Learned all aspects of the talent management lifecycle."
       }
     ],
     "work":[
